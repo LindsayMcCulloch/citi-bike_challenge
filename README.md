@@ -1,4 +1,5 @@
 # citi-bike_challenge
+
 This is the repository for Monash University Data Analytics Bootcamp Module 18 Challenge
 
 ## Contents
@@ -8,9 +9,9 @@ This is the repository for Monash University Data Analytics Bootcamp Module 18 C
 `citi-bike-visualisations.twb` Tableau public workbook containing the visualisations/dashboard/story for this data
 
 **Resources folder**
-    * `JC-202201-citibike-tripdata` csv file that contains the citi-bike data for JAN 2022
-    * `JC-202301-citibike-tripdata` csv file that contains the citi-bike data for JAN 2023
-    * `JC-202401-citibike-tripdata` csv file that contains the citi-bike data for JAN 2024
+* `JC-202201-citibike-tripdata` csv file that contains the citi-bike data for JAN 2022
+* `JC-202301-citibike-tripdata` csv file that contains the citi-bike data for JAN 2023
+* `JC-202401-citibike-tripdata` csv file that contains the citi-bike data for JAN 2024
 
 ## Background
 
@@ -60,43 +61,43 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 ## Considerations
 
-    Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualisations should be colourful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes.
+Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City municipal departments. Your data and analysis need to be presented in a way that is focused, concise, easy to understand, and visually compelling. Your visualisations should be colourful enough to be included in press releases, and your analysis should be thoughtful enough to inform programmatic changes.
 
 ## Assessment
 
 Your final product will be assessed on the following metrics:
 
-    * Analytic Rigor
+* Analytic Rigor
 
-    * Readability
+* Readability
 
-    * Visual Appeal
+* Visual Appeal
 
 ## Requirements
 
 **Map (25 points)**
 
-    * Markers for all bike stations (5 points)
+* Markers for all bike stations (5 points)
 
-    * Station markers indicate popularity by color, size, shape, or some other means (5 points)
+* Station markers indicate popularity by color, size, shape, or some other means (5 points)
 
-    * Ability to change marker data based on month and year (5 points)
+* Ability to change marker data based on month and year (5 points)
 
-    * Sections are marked by zip code (5 points)
+* Sections are marked by zip code (5 points)
 
-    * A write-up on the trends that were discovered while making the map (5 points)
+* A write-up on the trends that were discovered while making the map (5 points)
 
 **Visualisations (25 points)**
 
-    * 4-10 total visualisations (5 points)
+* 4-10 total visualisations (5 points)
 
-    * A total of 2 Tableau dashboards, each dedicated to a specific data discovery (5 points)
+* A total of 2 Tableau dashboards, each dedicated to a specific data discovery (5 points)
 
-    * Dashboards are named appropriately (5 points)
+* Dashboards are named appropriately (5 points)
 
-    * Data is cleaned such that data entry errors are removed and columns are correctly typed (5 points)
+* Data is cleaned such that data entry errors are removed and columns are correctly typed (5 points)
 
-    * Visualisations can logically be used to explore the data (5 points)
+* Visualisations can logically be used to explore the data (5 points)
 
 **Tableau Story (25 points)**
 
@@ -130,6 +131,10 @@ https://help.salesforce.com/s/articleView?id=001458294&type=1
 
 https://community.tableau.com/s/question/0D54T00000C6GifSAF/a-combined-calculated-field-from-date-and-time
 
+https://help.tableau.com/current/pro/desktop/en-us/maps_options.htm
+
+https://community.tableau.com/s/question/0D54T00000C5emOSAR/is-it-possible-to-add-to-the-pop-up-boxes-that-appear-on-the-map-graph-in-the-dashboard-to-add-more-attributes-instead-of-having-to-click-through-to-the-actual-data-table-while-in-the-dashboard
+
 ## Acknowledgments 
 
-* Datasets provided by © Lyft, Inc. 2024 at https://citibikenyc.com/system-data
+Datasets provided by © Lyft, Inc. 2024 at https://citibikenyc.com/system-data
