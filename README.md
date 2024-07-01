@@ -7,6 +7,7 @@ This is the repository for Monash University Data Analytics Bootcamp Module 18 C
 * `citi-bike_data_query.ipynb` Jupyter notebook containing the query to merge January citi-bike data from JAN 2022, JAN 2023 and JAN 2024
 * `2022-2024_combined_citi-bike_data.csv` CSV export file containing the combined 2022, 2023 and 2024 data tht will be used by Tableau for visualisations
 * `citi-bike-visualisations.twb` Tableau public workbook containing the visualisations/dashboard/story for this data
+* `citi-bike data analysis.md` is a markdown file containing the written analysis for thsi challenge 
 
 **Resources folder**
 * `JC-202201-citibike-tripdata` csv file that contains the citi-bike data for JAN 2022
