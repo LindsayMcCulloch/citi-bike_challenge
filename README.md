@@ -4,14 +4,28 @@ This is the repository for Monash University Data Analytics Bootcamp Module 18 C
 
 ## Contents
 
-`citi-bike_data_query.ipynb` Jupyter notebook containing the query to merge January citi-bike data from JAN 2022, JAN 2023 and JAN 2024
-`2022-2024_combined_citi-bike_data.csv` CSV export file containing the combined 2022, 2023 and 2024 data tht will be used by Tableau for visualisations
-`citi-bike-visualisations.twb` Tableau public workbook containing the visualisations/dashboard/story for this data
+* `citi-bike_data_query.ipynb` Jupyter notebook containing the query to merge January citi-bike data from JAN 2022, JAN 2023 and JAN 2024
+* `2022-2024_combined_citi-bike_data.csv` CSV export file containing the combined 2022, 2023 and 2024 data tht will be used by Tableau for visualisations
+* `citi-bike-visualisations.twb` Tableau public workbook containing the visualisations/dashboard/story for this data
 
 **Resources folder**
 * `JC-202201-citibike-tripdata` csv file that contains the citi-bike data for JAN 2022
 * `JC-202301-citibike-tripdata` csv file that contains the citi-bike data for JAN 2023
 * `JC-202401-citibike-tripdata` csv file that contains the citi-bike data for JAN 2024
+
+## Key analysis questions
+
+        * What trends can be observed between memberships recorded in January annually between 2022 to 2024?
+        
+        * What trends can be observed per rideable type January annually between the chosen period?
+
+        * What are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesise these are the top locations?
+
+        * What are the top 10 stations in the city for ending a journey? Based on data, why?
+
+        * What are the bottom 10 stations in the city for starting a journey? Based on data, why?
+
+        * What are the bottom 10 stations in the city for ending a journey? Based on data, why?
 
 ## Background
 
@@ -26,24 +40,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
 
 1. Design 2–5 visualisations for each discovered phenomenon (4–10 total). You may work with a timespan of your choosing. Optionally, you can also merge multiple datasets from different periods.
-
-    * The following are questions you may wish to answer. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!
-
-        * How many trips have been recorded in total during the chosen period?
-
-        * By what percentage has total ridership grown?
-
-        * How have the proportions of short-term customers and annual subscribers changed?
-
-        * Today, what are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesise these are the top locations?
-
-        * Today, what are the top 10 stations in the city for ending a journey? Based on data, why?
-
-        * Today, what are the bottom 10 stations in the city for starting a journey? Based on data, why?
-
-        * Today, what are the bottom 10 stations in the city for ending a journey? Based on data, why?
-
-
 
 2. Create one of the following visualisations for city officials:
 
@@ -134,6 +130,10 @@ https://community.tableau.com/s/question/0D54T00000C6GifSAF/a-combined-calculate
 https://help.tableau.com/current/pro/desktop/en-us/maps_options.htm
 
 https://community.tableau.com/s/question/0D54T00000C5emOSAR/is-it-possible-to-add-to-the-pop-up-boxes-that-appear-on-the-map-graph-in-the-dashboard-to-add-more-attributes-instead-of-having-to-click-through-to-the-actual-data-table-while-in-the-dashboard
+
+https://community.tableau.com/s/question/0D54T00000C6XKaSAN/formula-to-convert-longitude-and-latitude-fields-into-post-code
+
+https://help.tableau.com/current/pro/desktop/en-us/maps_custom_territories.htm
 
 ## Acknowledgments 
 
