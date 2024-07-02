@@ -11,7 +11,7 @@ Tableau Public Workbook: https://public.tableau.com/app/profile/lindsay.mcculloc
 * `citi-bike-visualisations.twb` Tableau public workbook containing the visualisations/dashboard/story for this data
 
 **Analysis folder**
-* `citi-bike data analysis.md` is a markdown file containing the written analysis for thsi challenge 
+* `citi-bike data analysis.md` is a markdown file containing the written analysis for this challenge 
 * `.png` files for each visualisation used in the `citi-bike data analysis.md`
 
 **Resources folder**
