@@ -53,6 +53,8 @@ From the below pie chart it is shown that the average duration in 2022 of actual
 The next measure of which rideable type is more popular for each weekday did not produce and significant trends for observation as you can see in below chart. This might be due to the lack of monthly data available in the specific dataset being measured and trends may be better observed in a monthly format for a full 12 months rather than a year on year comparison. 
 Overall there was no significant weekday preference for riders in January between 2022 to 2024. The data is quite scattered showing preferences for both rideable types increasing middweek in 2022. where in 2023 the start of the week showed greater preference for both rideable types before remaining relatively spread during the end of the week. In 2024 however the use of citi-bikes saw significant drops at the end of the week in comparison to previous years and no hypothesis on weekday preference can be made without further investigation as to what the influencing factors may be.
 
+![alt text](<Rideable type per week.png>)
+
 ***Refer to Rideable type dashboard on Tableau public workbook*** 
 
 ## Station Analysis:
