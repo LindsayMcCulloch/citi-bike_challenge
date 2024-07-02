@@ -2,12 +2,17 @@
 
 This is the repository for Monash University Data Analytics Bootcamp Module 18 Challenge
 
+Tableau Public Workbook: https://public.tableau.com/app/profile/lindsay.mcculloch/viz/citi-bike-visualisations/Januaryannualtrendsinciti-bikedata
+
 ## Contents
 
 * `citi-bike_data_query.ipynb` Jupyter notebook containing the query to merge January citi-bike data from JAN 2022, JAN 2023 and JAN 2024
 * `2022-2024_combined_citi-bike_data.csv` CSV export file containing the combined 2022, 2023 and 2024 data tht will be used by Tableau for visualisations
 * `citi-bike-visualisations.twb` Tableau public workbook containing the visualisations/dashboard/story for this data
+
+**Analysis folder**
 * `citi-bike data analysis.md` is a markdown file containing the written analysis for thsi challenge 
+* `.png` files for each visualisation used in the `citi-bike data analysis.md`
 
 **Resources folder**
 * `JC-202201-citibike-tripdata` csv file that contains the citi-bike data for JAN 2022
@@ -20,13 +25,13 @@ This is the repository for Monash University Data Analytics Bootcamp Module 18 C
         
 * What trends can be observed per rideable type January annually between the chosen period?
 
-* What are the top 10 stations in the city for starting a journey? Based on data, why do you hypothesise these are the top locations?
+* What are the top 10 stations in the city for starting a journey?
 
-* What are the top 10 stations in the city for ending a journey? Based on data, why?
+* What are the top 10 stations in the city for ending a journey?
 
-* What are the bottom 10 stations in the city for starting a journey? Based on data, why?
+* What are the bottom 10 stations in the city for starting a journey?
 
-* What are the bottom 10 stations in the city for ending a journey? Based on data, why?
+* What are the bottom 10 stations in the city for ending a journey?
 
 ## Background
 
@@ -135,6 +140,10 @@ https://community.tableau.com/s/question/0D54T00000C5emOSAR/is-it-possible-to-ad
 https://community.tableau.com/s/question/0D54T00000C6XKaSAN/formula-to-convert-longitude-and-latitude-fields-into-post-code
 
 https://help.tableau.com/current/pro/desktop/en-us/maps_custom_territories.htm
+
+https://nyc.streetsblog.org/2023/11/03/electric-avenue-e-citi-bikes-will-double-but-footprint-wont
+
+https://www.theguardian.com/environment/2023/dec/22/ebike-boom-america-sales
 
 ## Acknowledgments 
 
